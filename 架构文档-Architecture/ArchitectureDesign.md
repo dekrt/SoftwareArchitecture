@@ -280,11 +280,11 @@
 
 系统的参考模型如下：
 
-![](./pics/Reference model.png)
+![](./pics/Referencemodel.png)
 
 参考架构如下：
 
-![](./pics/Reference arch.png)
+![](./pics/Referencearch.png)
 
 ### 3.2 体系结构的设计
 
