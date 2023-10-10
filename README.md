@@ -3,8 +3,15 @@
 	<h1 align = "center">基于机器学习的分布式系统故障诊断系统</h1>    
     <h4 align = "center">系统治愈师团队 | System Healer Team</h4>
 </div>
+|  姓名  |    班级    |    学号    |             分工             |
+| :----: | :--------: | :--------: | :--------------------------: |
+| 张骁凯 | 软件2102班 | U202117281 | 需求文档、代码编写、架构评审 |
+| 陈德霆 | 软件2102班 | U202117254 |      系统设计、架构设计      |
+
 
 > Github仓库地址：https://github.com/dekrt/SystemHealer
+>
+> 文档仓库地址：https://github.com/dekrt/SoftwareArchitecture
 
 ## 一、信息介绍
 
